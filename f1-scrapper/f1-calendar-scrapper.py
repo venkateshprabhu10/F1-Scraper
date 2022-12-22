@@ -36,6 +36,6 @@ def calendarScrapper(url):
 
         print(f"{round_no} | {country} | {start_month}-{start_date} to {end_month}-{end_date}")
 
-url = "https://www.formula1.com/en/racing/2022.html"
+url = "https://www.formula1.com/en/racing/2023.html"
 
 calendarScrapper(url)
